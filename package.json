@@ -1,10 +1,13 @@
 {
-  "name": "cotd-web-devtools",
+  "name": "eslint-config-catch",
   "version": "1.0.0",
-  "description": "Common library of web devtools for Catchgroup web team",
-  "main": "index.js",
+  "description": "A set of eslint configurations, for Catch Group web team",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattyao-cotd/npm-module-demo.git"
   },
   "author": "cotd",
   "license": "MIT"
